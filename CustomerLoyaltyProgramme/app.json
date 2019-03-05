@@ -1,0 +1,24 @@
+{
+  "id": "76bc8a39-1a34-4bc9-a646-5730f455a5c5",
+  "name": "CustomerLoyaltyProgramme",
+  "publisher": "Default publisher",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "Src/customercategory/images/Portræthd.jpg",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  },
+  "runtime": "2.3",
+  "showMyCode": true
+  }
